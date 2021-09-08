@@ -1,76 +1,266 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-id=”KW TV Mexico” tvg-name=”KW TV” tvg-logo=”kwtv.png” group-title=”Variedades – Latinos”,KW TV México
-http://wpc.845d.edgecastcdn.net/hls-live/20845D/Live/kwlive/livetv,364,664,964,1264,.m3u8?hc_location=ufi
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i64.tinypic.com/29f8c9h.jpg”,Golden Edge
-http://latino-webtv.ml/7878/484.m3u8
+#EXTINF:-1,WARNER HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
+ 
+#EXTINF:-1,H2 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i58.tinypic.com/ibgsc0.jpg”,AMC HD
-http://latino-webtv.ml/7878/490.m3u8
+#EXTINF:-1,GOLDEN HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/jslztc.jpg”,Studio Universal
-http://latino-webtv.ml/7878/492.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/2qu3ryx.jpg”,Universal Channel
-http://latino-webtv.ml/7878/207.m3u8
-#EXTINF:-1 tvg-logo=”https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2000px-Caracol_TV_HD_logo.svg.png”,Caracol HD
-http://latino-webtv.ml/7878/caracol.m3u8
+#EXTINF:-1,TLC
+http://www.iptvmexico.xyz/833.m3u8
 
-#EXTINF:-1 tvg-logo=”http://3.bp.blogspot.com/_0LgM-BJnKlI/TGmq7_8s3HI/AAAAAAAAAHU/uh0Vb17tZGY/s1600/rcn.png”,RCN HD
-http://latino-webtv.ml/7878/rcn.m3u8
+#EXTINF:-1 ,THE_FILM_ZONE_HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i57.tinypic.com/72vdr4.jpg”,Win Sports HD
-http://latino-webtv.ml/7878/wins.m3u8
+#EXTINF:-1 ,FOX ACTION HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXACTION_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/5lrpqq.jpg”,Fox HD
-http://latino-webtv.ml/7878/201.m3u8
+#EXTINF:-1,FOX MOVIES HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOXMOVIES_HD)/Stream(02)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/30mv6eu.jpg”,TNT HD
-http://latino-webtv.ml/7878/435.m3u8
+#EXTINF:-1,FOX1 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-id=”861″ tvg-name=”UFC Network iptv Latino america” tvg-logo=”http://portal.iptvprivateserver/stalker_portal/misc/logos/320/625.png”,UFC Network
-http://latino-webtv.ml:86/9628/playlist.m3u8
+#EXTINF:-1,CINELATINO HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i57.tinypic.com/2vw9ti0.jpg”,Fox Sports
-http://latino-webtv.ml/7878/522.m3u8
+#EXTINF:-1,CINEMAX HD
+http://tstv.lcdn.claro.net.co/Content/HLS/Live/Channel(CINEMAX)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/5e5vgh.jpg”,Fox Sports 2
-http://latino-webtv.ml/7878/527.m3u8
+#EXTINF:-1,Investigation Discovery [USA]
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
 
-#EXTINF:-1 tvg-id=”859″ tvg-name=”Fox Sports 3 Latinoamerica” tvg-logo=”http://portal.iptvprivateserver/stalker_portal/misc/logos/320/127.png”,Fox Sports 3
-http://latino-webtv.ml:86/445/playlist.m3u8
+#EXTINF:-1,TELEMUNDO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TELEMUNDO)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-id=”862″ tvg-name=”BeinSports en Español” tvg-logo=”http://portal.iptvprivateserver/stalker_portal/misc/logos/320/1239.png”,Bein Ñ Sports
-http://latino-webtv.ml:86/2527/playlist.m3u8
+ #EXTINF:-1,Univision Deportes
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
+ 
+#EXTINF:-1,TC HD
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
 
-#EXTINF:-1 tvg-id=”863″ tvg-name=”Planeta Futbol” tvg-logo=”http://portal.iptvprivateserver/stalker_portal/misc/logos/320/863.png”,Planeta Futbol
-http://latino-webtv.ml:86/1477/playlist.m3u8
+#EXTINF:-1,ISAT HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/vzhl37.jpg”,ESPN HD
-http://latino-webtv.ml/7878/516.m3u8
+#EXTINF:-1,GLITZ HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GLITZ)/Stream(01)/index.m3u8
+ 
+#EXTINF:-1,SONY HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SONY_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/242bo6v.jpg”,ESPN 2
-http://latino-webtv.ml/7878/561.m3u8
+#EXTINF:-1,SPACE HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i62.tinypic.com/e12l42.jpg”,ESPN 3
-http://latino-webtv.ml/7878/520.m3u8
+#EXTINF:-1,TBS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TBS)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/15detc.jpg”,Fox 1
-http://latino-webtv.ml/7878/415.m3u8
+#EXTINF:-1,TLNOVELAS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/2yovqqh.jpg”,Space HD
-http://latino-webtv.ml/7878/445.m3u8
+#EXTINF:-1,TNT SERIES HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TNT_SERIES_HD)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i61.tinypic.com/143kj0g.jpg”,History HD
-http://latino-webtv.ml/7878/353.m3u8
+#EXTINF:-1,TRUTV HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TRUTV)/Stream(01)/index.m3u8
 
-#EXTINF:-1 tvg-logo=”http://i59.tinypic.com/2u43ti1.jpg”,Fox Action HD
-http://latino-webtv.ml/7878/416.m3u8
+#EXTINF:-1,Discovery Channel
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CHANNEL_HD)/Stream(01)/index.m3u8
+ 
+#EXTINF:-1,Discovery Civilization
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_CIVILIZATION)/index.m3u8
+ 
+#EXTINF:-1,Discovery Home & Health
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+ 
+#EXTINF:-1,Discovery Kids HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(01)/index.m3u8
+ 
+#EXTINF:-1,Discovery Science
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_SCIENCE)/index.m3u8
+ 
+#EXTINF:-1,Discovery Theater
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_THEATER_HD)/index.m3u8
+ 
+#EXTINF:-1,Discovery Turbo
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_TURBO)/index.m3u8
+ 
+#EXTINF:-1,Discovery World
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_WORLD_HD)/index.m3u8
 
-#EXTINF:-1 tvg-id=”960″ tvg-name=”HBO iptv Latino america” tvg-logo=”http://portal.iptvprivateserver/stalker_portal/misc/logos/320/207.png” group-title=”Cine”,HBO
-http://latino-webtv.ml:86/385/playlist.m3u8
+#EXTINF:-1,DISNEY HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY)/Stream(01)/index.m3u8
+
+#EXTINF:-1,DISCOVERY KIDS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_KIDS_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,BOOMERANG HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/Stream(01)/index.m3u8
+
+#EXTINF:-1,DISNEY JUNIOR HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+
+#EXTINF:-1,NATGEO KIDS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,TOONCAST HS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
+
+#EXTINF:-1,CARTOON NETWORTK HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+ 
+ 
+#EXTINF:-1,NFL Now
+https://svglive3-event.level3.nfl.com/nflent3/live/nfl_now/NFLNOW_1200k.m3u8
+
+#EXTINF:-1,UFC Japones
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs08.stream/playlist.m3u8
+
+ 
+#EXTINF:0,ESPN_HD
+ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_HD)/index.m3u8
+
+#EXTINF:-1,ESPN_2_HD
+ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/index.m3u8
+
+#EXTINF:-1,ESPN_3_HD
+ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_3_HD)/index.m3u8
+
+#EXTINF:-1,FOX SPORTS HD
+ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS_HD)/index.m3u8
+
+#EXTINF:-1,FOX_SPORTS 2 HD
+ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS2_HD)/index.m3u8
+
+#EXTINF:-1,FOX_SPORTS3_HD
+ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/index.m3u8
+
+#EXTINF:0,WINSPORTS HD
+ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WINSPORTS_HD)/index.m3u8
+
+#EXTINF:-1,GOLF_CHANNEL_HD
+ http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLF_CHANNEL_HD)/index.m3u8
+
+#EXTINF:-1,ESPN 2 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ESPN_2_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,History 2
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(H2)/Stream(01)/index.m3u8
+
+#EXTINF:-1,CNT Deportes
+http://165.227.32.224/loadbalance/17423279542575439238/chunks.m3u8?pxAuth=ljFhirepd2lc7UhHitPZNyK6CcLZNKUR
+
+#EXTINF:-1,Cartoon Network
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARTOON_NETWORK_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,A&E
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AE)/Stream(01)/index.m3u8
+
+#EXTINF:-1 ,Cinecanal
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINECANAL_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,Golden HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GOLDEN_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,SPACE HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(SPACE_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,BOOMERANG HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(BOOMERANG)/Stream(01)/index.m3u8
+
+#EXTINF:-1,FILM ZONE HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(THE_FILM_ZONE_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,DISTRITO COMEDIA
+http://s2.iptvmanagerpro.com/seg/823/2ad8e5d3037be2e3d7dc639cd18a64bd/168
+
+#EXTINF:-1 ,ANIMAL PLANET HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ANIMAL_PLANET_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,TOONCAST
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TOONCAST)/Stream(01)/index.m3u8
+
+#EXTINF:-1,DISNEY JR
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_JR)/Stream(01)/index.m3u8
+
+#EXTINF:-1,DISNEY HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,FOX SPORTS
+http://35.196.195.222/hls/live/channel4.m3u8
+
+#EXTINF:-1,FOX SPORT 3 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_SPORTS3_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,LIFETIME
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(LIFETIME)/Stream(01)/index.m3u8
+
+#EXTINF:-1,CARACOL HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CARACOL_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,DISNEY HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISNEY_XD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,AXN HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(AXN_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,CINE LATINO
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CINELATINO)/Stream(01)/index.m3u8
+
+#EXTINF:-1,DEPELICULA
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DEPELICULA)/Stream(01)/index.m3u8
+
+#EXTINF:-1,FOX PREMIUN
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX1_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,CNN INTERNACIONAL
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(CNN_INTERNACIONAL)/Stream(01)/index.m3u8
+
+#EXTINF:-1,GLITZ
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(GLITZ)/Stream(01)/index.m3u8
+
+#EXTINF:-1,NATGEO KIDS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(NATGEO_KIDS_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,HYH
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(DISCOVERY_HOME_HEALTH_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,UNIVERSAL CHANNEL HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(UNIVERSAL_CHANNEL_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,ID HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ID_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,HBO 2 HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_2_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,TELENOVELAS
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(TLNOVELAS)/Stream(01)/index.m3u8
+
+#EXTINF:-1,UNIVISION TDN
+http://sced.cdnak.neulion.net/250/nlds/univision/as/live/udnoo_hd_800_ipad.m3u8
+
+#EXTINF:-1,HBO PLUS HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_PLUS_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,HBO FAMILY HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(HBO_FAMILY_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,ISAT
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(ISAT)/Stream(01)/index.m3u8
+
+#EXTINF:-1,WARNER HD
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(WARNER_HD)/Stream(01)/index.m3u8
+
+#EXTINF:-1,FOX LIFE
+http://tstv.lcdn.claro.net.co/Content/hls_clear/Live/Channel(FOX_LIFE)/Stream(01)/index.m3u8
 
 
 
